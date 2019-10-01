@@ -1,0 +1,6 @@
+Ce fichier est mon Journal de formation.
+
+30/09/2019 :
+Ce que j'ai retenu de la journee d'hier Git c'est pour collaborer Historiser et résoudre les conflits
+
+
